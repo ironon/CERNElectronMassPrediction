@@ -1,5 +1,9 @@
 # CERN Electron Mass Prediction
 A couple months ago I found a really cool dataset from the CERN partical collider, and I decided it'd be cool to do some ML stuff with it because it looked really neat.
+
+[Dataset](https://www.kaggle.com/code/sandeepadalagiyawana/cern-electron-mass-prediction-0-9859-r/notebook)
+
+
 I decided to predict the mass of the electrons based off everything else about them (energy, momentum, etc)
 ## Hyperparameter Tuning Graphs
 
